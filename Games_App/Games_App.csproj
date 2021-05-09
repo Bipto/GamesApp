@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Games_App.cs~RF4d08f222.TMP" />
+    <None Remove="Games_App.Designer.cs~RF66f617e.TMP" />
+  </ItemGroup>
+
+</Project>
